@@ -1,6 +1,6 @@
 # Unix Permissions Cheat Sheet
 
-I created this repository in hopes that it may be used as a helpful reference.
+Forked from lansana
 
 ## Permissions
 
